@@ -1,0 +1,11 @@
+{
+  "name": "bili-dashboard",
+  "version": "0.1.0",
+  "description": "billion-context 压缩代理面板：/bili-panel 一键打开实时统计（会话/节省/命中率/日志）",
+  "author": {
+    "name": "IVAN"
+  },
+  "license": "MIT",
+  "commands": "commands",
+  "skills": "skills"
+}

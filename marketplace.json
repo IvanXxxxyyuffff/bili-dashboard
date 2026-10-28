@@ -1,0 +1,38 @@
+{
+  "name": "bili-dashboard-marketplace",
+  "owner": {
+    "name": "IVAN"
+  },
+  "plugins": [
+    {
+      "name": "bili-dashboard",
+      "source": "./plugins/bili-dashboard",
+      "version": "0.1.0",
+      "description": "billion-context 压缩代理面板：/bili-panel 一键打开实时统计（会话/节省/命中率/日志）。",
+      "description_i18n": {
+        "en": "billion-context compression proxy dashboard: /bili-panel opens live stats (sessions/savings/cache-hit/logs).",
+        "zh-CN": "billion-context 压缩代理面板：/bili-panel 一键打开实时统计（会话/节省/命中率/日志）。"
+      },
+      "displayName": "bili-dashboard",
+      "displayName_i18n": {
+        "zh-CN": "bili 压缩代理面板"
+      },
+      "author": {
+        "name": "IVAN"
+      },
+      "category": "developer-tools",
+      "keywords": [
+        "billion-context",
+        "bili",
+        "context",
+        "dashboard",
+        "tokens",
+        "zcode"
+      ],
+      "componentTypes": [
+        "skill",
+        "command"
+      ]
+    }
+  ]
+}
