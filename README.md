@@ -14,13 +14,13 @@ billion-context 压缩代理统计面板。在 ZCode 里输入 `/bili-panel`，�
 
 ```bash
 # 1. 添加本市场（仓库即市场）
-zcode plugins marketplace add github:jasonmarkppp/bili-dashboard
+zcode plugins marketplace add IvanXxxxyyuffff/bili-dashboard
 
 # 2. 安装插件
 zcode plugins install bili-dashboard@bili-dashboard-marketplace
 ```
 
-也可以在 ZCode 桌面端：设置 → 插件 → 插件市场 → 添加 → 输入 `github:jasonmarkppp/bili-dashboard`，然后搜索 "bili" 安装。
+也可以在 ZCode 桌面端：设置 → 插件 → 插件市场 → 添加 → 输入 `IvanXxxxyyuffff/bili-dashboard`，然后搜索 "bili" 安装。
 
 ## 使用
 
